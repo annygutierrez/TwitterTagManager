@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338609256677",
+    "project_id": "twittertagmanager",
+    "storage_bucket": "twittertagmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338609256677:android:86a5f8f22d9aa06407bc0c",
+        "android_client_info": {
+          "package_name": "com.twittertagmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE40M9pTHMYnStEf6Sv6uAO93p2RzuZ_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
