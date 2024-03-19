@@ -66,10 +66,11 @@ function App(): React.JSX.Element {
 
   const firingEvent = async () => {
     await analytics().logEvent('Press_Button', {
-      id: 3745092,
-      item: 'mens grey t-shirt',
-      description: ['round neck', 'long sleeved'],
-      size: 'L',
+      value: 'yes',
+    });
+
+    await analytics().logEvent('Press_Button_Two', {
+      value: 'no',
     });
   };
 
